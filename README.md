@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently looking for a service
+- 🌱 I’m currently delving deeper into python.
+- 💬 Ask me about *Javascript, React, Redux, NodeJS, SQL, MongoDB, Typescript or anything*.
+- 📫 You can e-mail me at kevinstart14@gmail.com
 <!--
 **Kestsu/Kestsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
