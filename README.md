@@ -4,7 +4,7 @@
     </strong>
   </p>
   <p>
- 🔭 I’m currently looking for a service 
+ 🔭 I’m currently looking for a job 
   </p>
  <p>
  🌱 I’m currently delving deeper into python. 
