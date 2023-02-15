@@ -1,51 +1,131 @@
-<div>
-  <p><strong>
- Hiii, I’m Kevin!!! 👋
-    </strong>
-  </p>
-  <p>
- 🔭 I’m currently looking for a job 
-  </p>
- <p>
- 🌱 I’m currently delving deeper into python. 
-</p>
-
-<p>
-  💬 Ask me about <em>Javascript, React, Redux, NodeJS, SQL, MongoDB, Typescript or anything</em>.
-</p>
-
-<p>
-📫 You can e-mail me at kevinstart14@gmail.com
-  </p>
-<h3>Connect with me:</h3>
-<p>
-<a href="https://linkedin.com/in/kevin-li14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KevinLi" height="30" width="40" /></a>
-</p>
-  </div>
- <h4> Most Used Languages </h4>
-  
-<p>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-
-<h4>Front-end Tools</h4>
-<div>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+<div align="center">
+    <div>
+    
+<div align="center" >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&pause=1000&color=F7F7F7&width=435&lines=Welcome%2C+I'm+Kevin!!" alt="Typing SVG" /></a>
 </div>
-<h4>Testing Tools</h4>
-<div>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer">
-   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
-  </div>
-   <br/>
+  <h3>
+ 🔭 Estou atualmente a procura de um trabalho.
+  </h3>
+ <h3>
+ 🌱 No momento estou me aprofundando em python.
+</h3>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kestsu&show_¡cons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<h3>
+  💬 Pergunte-me sobre <em>Javascript, React, Redux, NodeJS, SQL, MongoDB, Typescript or anything</em>.
+</h3>
+</div>
 
+<div align="center">
+    <h2> Entre em contato comigo👇 </h2>
+    <p align="center">
+        <a href="https://github.com/Kestsu">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="50" height="50" />
+        </a>
+        <a href="https://www.linkedin.com/in/kevin-li14/">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="50" height="50" />
+        </a>
+        <a href="mailto:kevinstart14@gmail.com">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="50" height="50" />
+        </a>
+        <a href="https://chatdireto.com/33988328888">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="50" height="50" />
+        </a>
+        <a href="https://t.me/Kevinli14">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="50" height="50" />
+        </a>
+        <a href="https://www.instagram.com/kestsu_li/">
+            <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="50" height="50" />
+        </a>
+    </p>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kestsu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <h2> Linguagens ⌘ e Flameworks ⚙️ </h2>
+    <p>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=bash" />
+        </a>
+        <a href="https://github.com">
+            <img src="https://skillicons.dev/icons?i=github" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=html" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=css" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=bootstrap" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=react" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=js" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=nodejs" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=ts" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=selenium" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=redux" />
+        </a>
+    </p>
+    <p>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=vscode" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=docker" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=mysql" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=mongodb" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=heroku" />
+        </a>
+        <a href="https://aws.amazon.com/pt/">
+            <img src="https://skillicons.dev/icons?i=figma" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=nginx" />
+        </a>
+        <a href="https://www.python.org">
+            <img src="https://skillicons.dev/icons?i=py" />
+        </a>
+        <a href="https://docs.djangoproject.com/en/4.1/">
+            <img src="https://skillicons.dev/icons?i=django" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=jest" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=fastapi" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=ps" />
+        </a>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=pr" />
+        </a>
+    </p>
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kestsu&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&ring=FF0000&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF&show_icons=true&include_all_commits=true&count_private=true" width=45% alt="Contribuições de Kevin">
+
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kestsu&layout=compact&theme=dark&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&bg_color=000000&card_width=400&custom_title=Linguagens%20mais%20usadas%20por%20Felps" alt="Top Linguagens de Kevin" >
+
+</div>
+</div>
+
 
