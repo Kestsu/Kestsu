@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-    <h2> Linguagens ⌘ e Flameworks ⚙️ </h2>
+    <h2> Linguagens ⌘ | Flameworks ⚙️ | Conhecimento 🃄 </h2>
     <p>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=bash" />
