@@ -2,7 +2,7 @@
     <div>
     
 <div align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=000000&width=435&lines=Welcome%2C+I'm+Kevin!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=37&pause=1000&color=FFFFFF&width=435&lines=Welcome%2C+I'm+Kevin!!" alt="Typing SVG" /></a>
 </div>
   <h3>
  🔭 Estou atualmente a procura de um trabalho.
